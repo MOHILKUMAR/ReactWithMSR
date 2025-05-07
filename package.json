@@ -1,0 +1,33 @@
+{
+  "name": "reactwithmsr",
+  "version": "1.0.0",
+  "description": "practice of REACT",
+  
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel bulid index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MOHILKUMAR/ReactWithMSR.git"
+  },
+  "keywords": [
+    "Practice",
+    "React",
+    "MSR"
+  ],
+  "author": "Mohil Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MOHILKUMAR/ReactWithMSR/issues"
+  },
+  "homepage": "https://github.com/MOHILKUMAR/ReactWithMSR#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
